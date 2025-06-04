@@ -11,7 +11,7 @@ This repository contains:
 - `CODE_OF_CONDUCT.md`: Code of Conduct for contributors.
 - `CONTRIBUTING.md`: Guidelines for contributing to this project.
 
-## Usage
+## Usages
 
 1. Clone the repository:
    ```bash
